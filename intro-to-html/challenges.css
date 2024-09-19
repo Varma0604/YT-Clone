@@ -1,0 +1,90 @@
+.new{
+  color:rgb(239, 6, 6);
+  font-size: 12;
+  font-family:arial;
+  text-align: center;
+  font-weight: bold;
+}
+.pro{
+  font-family: Arial;
+  font-weight:bold;
+  font-size: 20;
+  text-align:center;
+  margin-top: 2px;
+  margin-bottom:1px;
+}
+.pros{
+  font-family: arial;
+  font-weight: bold;
+  font-size: 40;
+  text-align: center;
+  margin-top:1px;
+  margin-bottom:8px;
+}
+.price{
+  font-weight: bold;
+  font-size: 13;
+  text-align: center;
+  margin-top:4px;
+  opacity:0.8;
+  font-family:arial;
+
+}
+.buy{
+ margin-left: 358px;
+ background-color: rgb(8, 92, 156);
+ color:white;
+ border-radius: 11px;
+ border:none;
+ padding-top:4px;
+ padding-bottom: 4px;
+ padding-left: 10px;
+ padding-right:10px;
+ font-family:arial;
+ cursor:pointer;
+
+}
+.money{
+  font-family:arial;
+  font-size:30;
+  margin-bottom:1px;
+}
+.currency{
+  font-size:12;
+  opacity:0.8;
+}
+.rate{
+  margin-top:5px;
+  font-size: 14;
+  color:green;
+  font-family:arial;
+  margin-bottom:5px;
+}
+.time{
+  margin-top:1px;
+  font-family:arial;
+  font-size:13;
+  opacity:0.9;
+}
+.time-rate{
+  color:rgb(183, 8, 8);
+}
+.orgj{
+  font-size:16;
+  font-family:arial;
+  font-weight: bold;
+}
+.org-ext{
+  opacity:0.8;
+  font-size:14;
+  font-family:arial;
+}
+.info{
+  font-family:arial;
+  width:500px;
+  color:black;
+  font-size:14;
+}
+.at{
+  color:rgb(39, 121, 162);
+}

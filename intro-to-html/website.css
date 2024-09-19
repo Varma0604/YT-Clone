@@ -1,0 +1,42 @@
+.name{
+  color:black;
+  font-weight: bolder;
+  font-size: 20px;
+}
+.price{
+  color:rgb(0,118,0);
+  font-weight: bold;
+}
+.add{
+  background-color:rgb(242, 203, 10);
+  height: 30px;
+  width: 100px;
+  color:black;
+  border-radius:14px;
+  border:1px;
+  cursor:ponter;
+}
+.buy{
+  background-color: rgb(255,164,28);
+  color:black;
+  border-radius: 14px;
+  height:30px;
+  width: 100px;
+  border:1px;
+  cursor:pointer;
+}
+.a:hover{
+  color:orangered;
+}
+.add:hover{
+  opacity: 0.9;
+}
+.add.active{
+  opacity:0.2;
+}
+.buy:hover{
+  background-color:orangered;
+}
+.buy:active{
+  opacity:0.3;
+}
